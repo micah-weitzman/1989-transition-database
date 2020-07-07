@@ -1,0 +1,15 @@
+Author (can be multiple) - relational 
+    First - textfield (50)
+    last name - textfield (50)
+Date of publication - datefield (month/year)
+Title - textfield (200)
+Country - textfield (60) - come back 
+Journal - textfield (100) - list come back
+Abstract - textfield (2000)
+Keywords (3-5) - textfield (100)
+Doi - textield - 50
+Is multiple ruthor
+
+Database
+
+Auto-bibliography
